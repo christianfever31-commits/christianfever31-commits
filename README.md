@@ -19,4 +19,4 @@ I specialize in building automation tools and documenting complex workflows, all
 ### ✍️ Beyond the Code
 When I'm not pushing commits, I'm writing for publications like **SitePoint** and **Medium**, helping other developers optimize their mobile workflows and master SEO automation.
 
-📫 **Let's Connect:** [Link to your Medium or LinkedIn]
+📫 **Let's Connect:** [https://medium.com/@ezealachristian915]

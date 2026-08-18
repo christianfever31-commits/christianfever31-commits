@@ -1,22 +1,58 @@
 # Hi, I'm Christian Ezenwa 👋
 
-### 🚀 Technical Writer & Mobile-First Developer
-I specialize in building automation tools and documenting complex workflows, all from a mobile-first environment. My mission is to prove that high-level software engineering doesn't require a desk—just the right logic and a powerful terminal.
+## Technical Writer | Developer Documentation | Full-Stack Developer
+
+I’m a Technical Writer and Full-Stack Developer focused on turning complex
+software systems, APIs, and development workflows into clear and useful
+documentation.
+
+My technical background helps me understand software from a developer's
+perspective while my writing focuses on making that knowledge accessible to
+developers, technical teams, and users.
 
 ---
 
-### 🛠 My Core Stack
-* **Languages:** Python (Automation, Scraping, Financial Data)
-* **Environment:** Termux (Android-based Linux environment)
-* **Specialties:** SEO Auditing tools, LLM Agent Function Calling, and Technical Documentation.
+## 🚀 Featured Project — Geminio OS
 
-### 📁 Featured Projects
-* **SEO Pro Auditor:** A Python-based diagnostic tool designed for deep technical reporting on the go.
-* **NeuraCore OS:** An AI SaaS platform prototype exploring next-gen agent interactions.
+**Geminio OS** is an AI-first operating-system concept and technical case
+study exploring how AI can support software development, productivity,
+automation, learning, and device workflows.
 
----
+As the founder and developer of the project, I have worked on:
 
-### ✍️ Beyond the Code
-When I'm not pushing commits, I'm writing for publications like **SitePoint** and **Medium**, helping other developers optimize their mobile workflows and master SEO automation.
+- Product and feature planning
+- Technical specifications
+- Software architecture planning
+- API documentation
+- Developer documentation
+- Deployment documentation
+- QA and testing documentation
+- Codebase analysis
+- Capability catalogues
+- Technical workflows
+- AI Builder concepts
+- AI Phone Assistant concepts
 
-📫 **Let's Connect:** [https://medium.com/@ezealachristian915]
+### AI Builder
+
+The Geminio OS AI Builder is designed around an AI-assisted software
+development workflow:
+
+```text
+Project Goal
+     ↓
+Requirements & Context
+     ↓
+Project Creation
+     ↓
+Code Generation / Modification
+     ↓
+Code Analysis
+     ↓
+Debugging
+     ↓
+Testing
+     ↓
+Deployment
+     ↓
+Performance Optimization

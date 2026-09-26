@@ -1,5 +1,4 @@
-#Ezenwa Christian Chimeremeze
-
+#EZENWA CHRISTIAN CHIMEREMEZE 
 #Technical Writer | Developer Documentation | #Full-Stack Developer | AI & Robotics
 
 I’m Ezenwa Christian Chimeremeze, a Technical Writer and Full-Stack Developer focused on making complex software systems easier to understand, build, document, and use.

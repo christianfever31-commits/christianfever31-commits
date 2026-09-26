@@ -8,13 +8,13 @@ My work combines software development with technical communication, with a focus
 
 I approach technical writing from a developer’s perspective—understanding how systems work internally and translating that complexity into clear, structured, and practical documentation for developers, technical teams, and users.
 
-🚀 Featured Project — Geminio OS
+#🚀 Featured Project — Geminio OS
 
 Geminio OS is an AI-first operating-system concept and technical case study exploring how artificial intelligence can support software development, productivity, automation, learning, and device workflows.
 
 As the founder and developer of Geminio OS, I have worked across product architecture, technical documentation, AI-assisted development workflows, and software engineering concepts.
 
-Core areas of work
+#Core areas of work
 
 - Product and feature planning
 - Software architecture
@@ -30,7 +30,7 @@ Core areas of work
 - AI Builder concepts
 - AI Phone Assistant concepts
 
-🧠 Geminio OS AI Builder
+#🧠 Geminio OS AI Builder
 
 The Geminio OS AI Builder explores an AI-assisted software development workflow that can support developers throughout the software lifecycle.
 
@@ -54,7 +54,7 @@ Performance Optimization
 
 The goal is to create a development environment where AI can assist with understanding requirements, generating and modifying code, analyzing software, debugging problems, supporting testing, and preparing applications for deployment.
 
-💻 Technical Focus
+#💻 Technical Focus
 
 My technical interests and development work include:
 
@@ -70,7 +70,7 @@ My technical interests and development work include:
 - Developer Tools
 - Robotics & Embedded Systems
 
-🎯 Professional Mission
+#🎯 Professional Mission
 
 My goal is to bridge the gap between software engineering and technical communication—building technology while documenting it clearly enough for other developers and users to understand, integrate, and extend.
 

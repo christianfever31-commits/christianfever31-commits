@@ -1,4 +1,4 @@
-# Hi, I'm Christian Ezenwa 👋
+# Hi, I'm Ezenwa Christian Chimeremeze👋
 
 ## Technical Writer | Developer Documentation | Full-Stack Developer
 
